@@ -1,0 +1,9 @@
+﻿CCT - Como não fazer testes de unidade guiados por dados
+=========================================================
+
+- Como esse conhecimento te ajuda?
+  - aprender o que é teste guiado por dados
+  - entender por que ele não é tão legal quanto parece
+
+- Mostrar código
+

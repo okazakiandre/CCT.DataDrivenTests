@@ -1,0 +1,33 @@
+﻿CCT - Como não fazer testes de unidade guiados por dados
+=========================================================
+
+- Como esse conhecimento te ajuda?
+  - aprender o que é teste guiado por dados
+  - entender por que ele não é tão legal quanto parece
+
+- Mostrar código
+
+- Por que é um problema?
+  - código muito dinâmico gera problemas
+  - temos dificuldade de escrever código simples
+  - data driven cria hábitos ruins
+  - tem suas vantagens se souber usar 
+
+- Como resolver
+  - a regra de ouro
+    - parametrize o setup, use ação e assert fixos
+  - teste com desvios de lógica
+    - não use ifs e loops
+    - separe os testes e torne simples
+  - testes desnecessários
+    - entenda o quê o código faz
+    - monte as combinações que precisam de teste
+    - remova combinações iguais
+  - métodos com nomes genéricos
+    - agrupe as combinações por contexto
+    - crie testes com nomes mais específicos
+  - teste foca na lógica e não no resultado esperado
+    - entenda qual o resultado esperado do método
+    - crie testes específicos
+    - se for possível, agrupe e use data driven
+

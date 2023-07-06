@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCT.DataDrivenTests.App", "CCT.DataDrivenTests.App\CCT.DataDrivenTests.App.csproj", "{93C8C969-1685-44EE-8A03-2AC607601F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCT.DataDrivenTests.UnitTest", "CCT.DataDrivenTests.UnitTest\CCT.DataDrivenTests.UnitTest.csproj", "{431B91CA-F3F6-4415-9C00-D5C412F04719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C8C969-1685-44EE-8A03-2AC607601F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C8C969-1685-44EE-8A03-2AC607601F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C8C969-1685-44EE-8A03-2AC607601F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C8C969-1685-44EE-8A03-2AC607601F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431B91CA-F3F6-4415-9C00-D5C412F04719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431B91CA-F3F6-4415-9C00-D5C412F04719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431B91CA-F3F6-4415-9C00-D5C412F04719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431B91CA-F3F6-4415-9C00-D5C412F04719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF831C4B-FC83-4931-9EB2-A8C3F8D4B979}
+	EndGlobalSection
+EndGlobal
